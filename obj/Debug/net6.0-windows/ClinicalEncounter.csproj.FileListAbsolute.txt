@@ -1,0 +1,16 @@
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\bin\Debug\net6.0-windows\ClinicalEncounter.exe
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\bin\Debug\net6.0-windows\ClinicalEncounter.deps.json
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\bin\Debug\net6.0-windows\ClinicalEncounter.runtimeconfig.json
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\bin\Debug\net6.0-windows\ClinicalEncounter.dll
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\bin\Debug\net6.0-windows\ClinicalEncounter.pdb
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\obj\Debug\net6.0-windows\ClinicalEncounter.Form1.resources
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\obj\Debug\net6.0-windows\ClinicalEncounter.csproj.GenerateResource.cache
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\obj\Debug\net6.0-windows\ClinicalEncounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\obj\Debug\net6.0-windows\ClinicalEncounter.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\obj\Debug\net6.0-windows\ClinicalEncounter.AssemblyInfo.cs
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\obj\Debug\net6.0-windows\ClinicalEncounter.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\obj\Debug\net6.0-windows\ClinicalEncounter.dll
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\obj\Debug\net6.0-windows\refint\ClinicalEncounter.dll
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\obj\Debug\net6.0-windows\ClinicalEncounter.pdb
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\obj\Debug\net6.0-windows\ClinicalEncounter.genruntimeconfig.cache
+C:\Users\Comp\source\repos\ClinicalEncounter\ClinicalEncounter\obj\Debug\net6.0-windows\ref\ClinicalEncounter.dll
